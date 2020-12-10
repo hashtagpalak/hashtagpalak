@@ -1,6 +1,6 @@
 ![](hi.gif)
 
-Hi there, I'm PALAK SRIVASTAVA, currently a pre-final year Computer Science student @Institute_Of_Engineering_And_Rural_technology, Prayagraj
+Hi there, I'm PALAK SRIVASTAVA from INDIA. Currently a pre-final year Computer Science student @Institute_Of_Engineering_And_Rural_technology, Prayagraj.
 <!--
 **hashtagpalak/hashtagpalak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
