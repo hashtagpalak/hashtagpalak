@@ -6,7 +6,7 @@ Hi there, I'm PALAK SRIVASTAVA from INDIA. Currently a pre-final year Computer S
 
 
 
-<img align="right" width="200" height="100" src="code-cat.gif">
+<img align="right" width="150" height="150" src="code-cat.gif">
 
 
 
