@@ -20,4 +20,4 @@ Hi there, I'm PALAK SRIVASTAVA from INDIA. Currently a pre-final year Computer S
 - 💬 Ask me anything about space science and CS
 - 📫 How to reach me: 
   - Email - palakdps158@gmail.com
-  - LinkedIn - https://linkedin.com/in/hashtagpalak
+  - LinkedIn - https://linkedin.com/in/palaksrivastava
