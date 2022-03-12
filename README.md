@@ -1,6 +1,6 @@
 <img align="left" width="50" height="50" src="hi.gif">
 
-Hi there, I'm PALAK SRIVASTAVA from INDIA. Currently a pre-final year Computer Science student @Institute_Of_Engineering_And_Rural_Technology, Prayagraj.
+Hi there, I'm PALAK SRIVASTAVA from INDIA. Currently a Final year Computer Science & Engineering student @Institute_Of_Engineering_And_Rural_Technology, Prayagraj.
 
 
 
